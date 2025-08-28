@@ -9,6 +9,6 @@ upway mark see the progress till level 25
 prompt till level 36
 final pdf till level 50
 this is my journery from starting to basic (level 50)
-i had not mention file of level 1 to 10 because it is just starting
+i had not mention file of level 1 to 10 because it was just starting
 
 
